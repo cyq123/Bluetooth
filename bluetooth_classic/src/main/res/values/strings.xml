@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothClassic</string>
+    <string name="enable_device">可用设备</string>
+    <string name="paired_device">已配对设备</string>
+</resources>
